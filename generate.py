@@ -48,7 +48,7 @@ for track_filename in glob.glob(TRACK_META_DIR + '/*.json'):
         track_data['stats']['downhill_orig_meters'] = math.floor(downhill_orig)
 
         track_data['stats']['length_2d_meters'] = math.floor(gpx.length_2d())
-        track_data['stats']['length_3d_meters'] = ath.floor(gpx.length_3d())
+        track_data['stats']['length_3d_meters'] = math.floor(gpx.length_3d())
 
         track_data['elevation'] = {}
         track_data['elevation']['orig'] = getElevationData(gpx)
