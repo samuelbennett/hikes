@@ -1,0 +1,15 @@
+.maps{
+    display: flex;
+}
+.osm-map {
+	width: 400px;
+	height: 400px;
+}
+.google-map{
+	width: 400px;
+	height: 400px;
+}
+.elevation-chart{
+	width: 400px;
+	height: 100%;
+}
