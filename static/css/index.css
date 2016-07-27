@@ -13,3 +13,16 @@
 	width: 400px;
 	height: 100%;
 }
+
+body {
+  padding-top: 5rem;
+}
+.centre {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.navbar-colour {
+	background-color:#111155;
+    color:#fff;
+}

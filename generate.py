@@ -8,6 +8,7 @@ import SocketServer
 import srtm
 import gpxpy
 import math
+import dateparser
 
 TEMPLATE_DIR = "./template"
 TRACK_META_DIR = "./tracks/meta"
@@ -66,8 +67,12 @@ for track_filename in glob.glob(TRACK_META_DIR + '/*.json'):
 def tojson(iterable):
     return json.dumps(iterable)
 
+def sortTrackByDate(iterable):
+    return sorted(iterable, key=lambda r: dateparser.parse(r['meta']['date']), reverse=True)
+
 j2_env = Environment(loader=FileSystemLoader(TEMPLATE_DIR), trim_blocks=True)
 j2_env.filters['tojson'] = tojson
+j2_env.filters['sortTrackByDate'] = sortTrackByDate
 html_output = j2_env.get_template('index.jinja.html').render(
     tracks=tracks
 )
