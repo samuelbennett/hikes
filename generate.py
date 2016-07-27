@@ -13,7 +13,7 @@ TEMPLATE_DIR = "./template"
 TRACK_META_DIR = "./tracks/meta"
 TRACK_ROUTE_DIR = "./tracks/route"
 
-OUTPUT_FILENAME = "index.html"
+OUTPUT_FILENAME = "generated_index.html"
 
 PORT = 8000
 
