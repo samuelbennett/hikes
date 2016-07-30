@@ -18,11 +18,29 @@ body {
   padding-top: 5rem;
 }
 .centre {
-  padding: 3rem 1.5rem;
+  padding: 3rem 0rem 0rem 0rem;
   text-align: center;
 }
 
 .navbar-colour {
 	background-color:#111155;
     color:#fff;
+}
+
+ul.nav a:hover {
+	background-color:#111155;
+    color:#fff;
+}
+
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+	background-color:#111155;
+    color:#fff;
+}
+
+.top {
+    padding: 60px 0px 0px 15px;
+}
+
+.list-group-item {
+	border: none;
 }
