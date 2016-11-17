@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+ 
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="bikehike.co.uk" version="1.1" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+
+  <trk>
+    <name>studland</name>
+    <trkseg>
+      <trkpt lat="50.677269" lon="-1.951526">
+       <ele>0.12</ele>
+       <time>2016-11-17T20:55:15Z</time>
+      </trkpt>
+      <trkpt lat="50.677187" lon="-1.951290">
+       <ele>0.28</ele>
+       <time>2016-11-17T20:55:19Z</time>
+      </trkpt>
+      <trkpt lat="50.677446" lon="-1.950120">
+       <ele>1.79</ele>
+       <time>2016-11-17T20:55:40Z</time>
+      </trkpt>
+      <trkpt lat="50.677568" lon="-1.949831">
+       <ele>1.73</ele>
+       <time>2016-11-17T20:55:46Z</time>
+      </trkpt>
+      <trkpt lat="50.677745" lon="-1.948951">
+       <ele>0.74</ele>
+       <time>2016-11-17T20:56:02Z</time>
+      </trkpt>
+      <trkpt lat="50.676718" lon="-1.947932">
+       <ele>1.42</ele>
+       <time>2016-11-17T20:56:34Z</time>
+      </trkpt>
+      <trkpt lat="50.676052" lon="-1.947095">
+       <ele>0.51</ele>
+       <time>2016-11-17T20:56:57Z</time>
+      </trkpt>
+      <trkpt lat="50.675821" lon="-1.947073">
+       <ele>0.49</ele>
+       <time>2016-11-17T20:57:03Z</time>
+      </trkpt>
+      <trkpt lat="50.675644" lon="-1.947234">
+       <ele>0.84</ele>
+       <time>2016-11-17T20:57:08Z</time>
+      </trkpt>
+      <trkpt lat="50.675032" lon="-1.946419">
+       <ele>0</ele>
+       <time>2016-11-17T20:57:30Z</time>
+      </trkpt>
+      <trkpt lat="50.674148" lon="-1.945861">
+       <ele>0.98</ele>
+       <time>2016-11-17T20:57:55Z</time>
+      </trkpt>
+      <trkpt lat="50.673801" lon="-1.945689">
+       <ele>0.54</ele>
+       <time>2016-11-17T20:58:05Z</time>
+      </trkpt>
+      <trkpt lat="50.673543" lon="-1.945754">
+       <ele>0.3</ele>
+       <time>2016-11-17T20:58:12Z</time>
+      </trkpt>
+      <trkpt lat="50.673128" lon="-1.945346">
+       <ele>0.69</ele>
+       <time>2016-11-17T20:58:25Z</time>
+      </trkpt>
+      <trkpt lat="50.671952" lon="-1.946269">
+       <ele>1.66</ele>
+       <time>2016-11-17T20:59:00Z</time>
+      </trkpt>
+      <trkpt lat="50.671129" lon="-1.946719">
+       <ele>2.65</ele>
+       <time>2016-11-17T20:59:23Z</time>
+      </trkpt>
+      <trkpt lat="50.670048" lon="-1.942621">
+       <ele>0.12</ele>
+       <time>2016-11-17T21:00:38Z</time>
+      </trkpt>
+      <trkpt lat="50.667042" lon="-1.945378">
+       <ele>0.91</ele>
+       <time>2016-11-17T21:02:11Z</time>
+      </trkpt>
+      <trkpt lat="50.665628" lon="-1.946633">
+       <ele>0</ele>
+       <time>2016-11-17T21:02:54Z</time>
+      </trkpt>
+      <trkpt lat="50.658467" lon="-1.951377">
+       <ele>0.43</ele>
+       <time>2016-11-17T21:06:22Z</time>
+      </trkpt>
+      <trkpt lat="50.656372" lon="-1.952407">
+       <ele>1.78</ele>
+       <time>2016-11-17T21:07:20Z</time>
+      </trkpt>
+      <trkpt lat="50.656050" lon="-1.952360">
+       <ele>1.66</ele>
+       <time>2016-11-17T21:07:29Z</time>
+      </trkpt>
+      <trkpt lat="50.655160" lon="-1.952610">
+       <ele>2.24</ele>
+       <time>2016-11-17T21:07:53Z</time>
+      </trkpt>
+      <trkpt lat="50.654260" lon="-1.952740">
+       <ele>2.58</ele>
+       <time>2016-11-17T21:08:17Z</time>
+      </trkpt>
+      <trkpt lat="50.653680" lon="-1.952770">
+       <ele>2.46</ele>
+       <time>2016-11-17T21:08:33Z</time>
+      </trkpt>
+      <trkpt lat="50.652850" lon="-1.952930">
+       <ele>1.94</ele>
+       <time>2016-11-17T21:08:55Z</time>
+      </trkpt>
+      <trkpt lat="50.652530" lon="-1.952950">
+       <ele>1.58</ele>
+       <time>2016-11-17T21:09:03Z</time>
+      </trkpt>
+      <trkpt lat="50.652330" lon="-1.952920">
+       <ele>1.5</ele>
+       <time>2016-11-17T21:09:09Z</time>
+      </trkpt>
+      <trkpt lat="50.652150" lon="-1.952930">
+       <ele>1.52</ele>
+       <time>2016-11-17T21:09:14Z</time>
+      </trkpt>
+      <trkpt lat="50.651130" lon="-1.952750">
+       <ele>1.94</ele>
+       <time>2016-11-17T21:09:41Z</time>
+      </trkpt>
+      <trkpt lat="50.650800" lon="-1.952590">
+       <ele>2.11</ele>
+       <time>2016-11-17T21:09:50Z</time>
+      </trkpt>
+      <trkpt lat="50.649970" lon="-1.951990">
+       <ele>0.94</ele>
+       <time>2016-11-17T21:10:15Z</time>
+      </trkpt>
+      <trkpt lat="50.649830" lon="-1.951840">
+       <ele>1.39</ele>
+       <time>2016-11-17T21:10:19Z</time>
+      </trkpt>
+      <trkpt lat="50.648390" lon="-1.950900">
+       <ele>3.16</ele>
+       <time>2016-11-17T21:11:01Z</time>
+      </trkpt>
+      <trkpt lat="50.648190" lon="-1.950800">
+       <ele>3.21</ele>
+       <time>2016-11-17T21:11:06Z</time>
+      </trkpt>
+      <trkpt lat="50.647100" lon="-1.950120">
+       <ele>1.68</ele>
+       <time>2016-11-17T21:11:38Z</time>
+      </trkpt>
+      <trkpt lat="50.646740" lon="-1.949960">
+       <ele>1.78</ele>
+       <time>2016-11-17T21:11:48Z</time>
+      </trkpt>
+      <trkpt lat="50.646150" lon="-1.949780">
+       <ele>6.5</ele>
+       <time>2016-11-17T21:12:04Z</time>
+      </trkpt>
+      <trkpt lat="50.645960" lon="-1.949650">
+       <ele>7.43</ele>
+       <time>2016-11-17T21:12:09Z</time>
+      </trkpt>
+      <trkpt lat="50.645810" lon="-1.949600">
+       <ele>8.48</ele>
+       <time>2016-11-17T21:12:13Z</time>
+      </trkpt>
+      <trkpt lat="50.644950" lon="-1.950088">
+       <ele>22.13</ele>
+       <time>2016-11-17T21:12:38Z</time>
+      </trkpt>
+      <trkpt lat="50.645141" lon="-1.948747">
+       <ele>16.11</ele>
+       <time>2016-11-17T21:13:01Z</time>
+      </trkpt>
+      <trkpt lat="50.645147" lon="-1.948339">
+       <ele>14.67</ele>
+       <time>2016-11-17T21:13:08Z</time>
+      </trkpt>
+      <trkpt lat="50.645100" lon="-1.948039">
+       <ele>14.79</ele>
+       <time>2016-11-17T21:13:13Z</time>
+      </trkpt>
+      <trkpt lat="50.645181" lon="-1.947781">
+       <ele>12.32</ele>
+       <time>2016-11-17T21:13:18Z</time>
+      </trkpt>
+      <trkpt lat="50.644889" lon="-1.947127">
+       <ele>14.13</ele>
+       <time>2016-11-17T21:13:32Z</time>
+      </trkpt>
+      <trkpt lat="50.644331" lon="-1.946537">
+       <ele>16.14</ele>
+       <time>2016-11-17T21:13:49Z</time>
+      </trkpt>
+      <trkpt lat="50.643562" lon="-1.945829">
+       <ele>12.14</ele>
+       <time>2016-11-17T21:14:13Z</time>
+      </trkpt>
+      <trkpt lat="50.642637" lon="-1.947975">
+       <ele>22.61</ele>
+       <time>2016-11-17T21:14:57Z</time>
+      </trkpt>
+      <trkpt lat="50.641766" lon="-1.946687">
+       <ele>17.86</ele>
+       <time>2016-11-17T21:15:29Z</time>
+      </trkpt>
+      <trkpt lat="50.641590" lon="-1.946700">
+       <ele>18.42</ele>
+       <time>2016-11-17T21:15:34Z</time>
+      </trkpt>
+      <trkpt lat="50.641510" lon="-1.946750">
+       <ele>18.91</ele>
+       <time>2016-11-17T21:15:36Z</time>
+      </trkpt>
+      <trkpt lat="50.641460" lon="-1.946110">
+       <ele>18.74</ele>
+       <time>2016-11-17T21:15:47Z</time>
+      </trkpt>
+      <trkpt lat="50.641340" lon="-1.945120">
+       <ele>19.18</ele>
+       <time>2016-11-17T21:16:04Z</time>
+      </trkpt>
+      <trkpt lat="50.641280" lon="-1.944990">
+       <ele>19.38</ele>
+       <time>2016-11-17T21:16:07Z</time>
+      </trkpt>
+      <trkpt lat="50.641230" lon="-1.944740">
+       <ele>19.27</ele>
+       <time>2016-11-17T21:16:11Z</time>
+      </trkpt>
+      <trkpt lat="50.641030" lon="-1.943550">
+       <ele>18.91</ele>
+       <time>2016-11-17T21:16:32Z</time>
+      </trkpt>
+      <trkpt lat="50.641020" lon="-1.943170">
+       <ele>17.89</ele>
+       <time>2016-11-17T21:16:38Z</time>
+      </trkpt>
+      <trkpt lat="50.640960" lon="-1.942990">
+       <ele>17.6</ele>
+       <time>2016-11-17T21:16:42Z</time>
+      </trkpt>
+      <trkpt lat="50.640960" lon="-1.942750">
+       <ele>16.56</ele>
+       <time>2016-11-17T21:16:46Z</time>
+      </trkpt>
+      <trkpt lat="50.640930" lon="-1.942580">
+       <ele>16.17</ele>
+       <time>2016-11-17T21:16:49Z</time>
+      </trkpt>
+      <trkpt lat="50.640500" lon="-1.941440">
+       <ele>18.36</ele>
+       <time>2016-11-17T21:17:11Z</time>
+      </trkpt>
+      <trkpt lat="50.640480" lon="-1.941010">
+       <ele>17.85</ele>
+       <time>2016-11-17T21:17:19Z</time>
+      </trkpt>
+      <trkpt lat="50.640430" lon="-1.940540">
+       <ele>17.59</ele>
+       <time>2016-11-17T21:17:27Z</time>
+      </trkpt>
+      <trkpt lat="50.640460" lon="-1.940120">
+       <ele>16.11</ele>
+       <time>2016-11-17T21:17:34Z</time>
+      </trkpt>
+      <trkpt lat="50.641120" lon="-1.934640">
+       <ele>13.04</ele>
+       <time>2016-11-17T21:19:08Z</time>
+      </trkpt>
+      <trkpt lat="50.641370" lon="-1.932270">
+       <ele>17.3</ele>
+       <time>2016-11-17T21:19:49Z</time>
+      </trkpt>
+      <trkpt lat="50.641670" lon="-1.929740">
+       <ele>17.86</ele>
+       <time>2016-11-17T21:20:33Z</time>
+      </trkpt>
+      <trkpt lat="50.641750" lon="-1.928800">
+       <ele>19.19</ele>
+       <time>2016-11-17T21:20:49Z</time>
+      </trkpt>
+      <trkpt lat="50.641740" lon="-1.928570">
+       <ele>20.2</ele>
+       <time>2016-11-17T21:20:53Z</time>
+      </trkpt>
+      <trkpt lat="50.641650" lon="-1.928130">
+       <ele>22.92</ele>
+       <time>2016-11-17T21:21:00Z</time>
+      </trkpt>
+      <trkpt lat="50.641630" lon="-1.927880">
+       <ele>22.83</ele>
+       <time>2016-11-17T21:21:05Z</time>
+      </trkpt>
+      <trkpt lat="50.641630" lon="-1.926840">
+       <ele>21.6</ele>
+       <time>2016-11-17T21:21:22Z</time>
+      </trkpt>
+      <trkpt lat="50.641800" lon="-1.925570">
+       <ele>10.74</ele>
+       <time>2016-11-17T21:21:44Z</time>
+      </trkpt>
+      <trkpt lat="50.641880" lon="-1.925230">
+       <ele>7.39</ele>
+       <time>2016-11-17T21:21:50Z</time>
+      </trkpt>
+      <trkpt lat="50.641910" lon="-1.924900">
+       <ele>5.32</ele>
+       <time>2016-11-17T21:21:56Z</time>
+      </trkpt>
+      <trkpt lat="50.641940" lon="-1.924780">
+       <ele>4.67</ele>
+       <time>2016-11-17T21:21:58Z</time>
+      </trkpt>
+      <trkpt lat="50.641940" lon="-1.924700">
+       <ele>4.41</ele>
+       <time>2016-11-17T21:22:00Z</time>
+      </trkpt>
+      <trkpt lat="50.641870" lon="-1.924410">
+       <ele>3.91</ele>
+       <time>2016-11-17T21:22:05Z</time>
+      </trkpt>
+      <trkpt lat="50.641830" lon="-1.924430">
+       <ele>4.23</ele>
+       <time>2016-11-17T21:22:06Z</time>
+      </trkpt>
+      <trkpt lat="50.641490" lon="-1.924820">
+       <ele>6.97</ele>
+       <time>2016-11-17T21:22:17Z</time>
+      </trkpt>
+      <trkpt lat="50.640670" lon="-1.925810">
+       <ele>18.85</ele>
+       <time>2016-11-17T21:22:45Z</time>
+      </trkpt>
+      <trkpt lat="50.640410" lon="-1.926040">
+       <ele>22.36</ele>
+       <time>2016-11-17T21:22:53Z</time>
+      </trkpt>
+      <trkpt lat="50.639780" lon="-1.926360">
+       <ele>24.8</ele>
+       <time>2016-11-17T21:23:10Z</time>
+      </trkpt>
+      <trkpt lat="50.639400" lon="-1.926620">
+       <ele>22.85</ele>
+       <time>2016-11-17T21:23:21Z</time>
+      </trkpt>
+      <trkpt lat="50.639170" lon="-1.926840">
+       <ele>22.95</ele>
+       <time>2016-11-17T21:23:29Z</time>
+      </trkpt>
+      <trkpt lat="50.638770" lon="-1.927290">
+       <ele>30.48</ele>
+       <time>2016-11-17T21:23:42Z</time>
+      </trkpt>
+      <trkpt lat="50.638430" lon="-1.927750">
+       <ele>36.22</ele>
+       <time>2016-11-17T21:23:54Z</time>
+      </trkpt>
+      <trkpt lat="50.638300" lon="-1.927880">
+       <ele>36.74</ele>
+       <time>2016-11-17T21:23:58Z</time>
+      </trkpt>
+      <trkpt lat="50.639187" lon="-1.928195">
+       <ele>44.71</ele>
+       <time>2016-11-17T21:24:22Z</time>
+      </trkpt>
+      <trkpt lat="50.639446" lon="-1.928624">
+       <ele>42.91</ele>
+       <time>2016-11-17T21:24:32Z</time>
+      </trkpt>
+      <trkpt lat="50.640399" lon="-1.928216">
+       <ele>35.4</ele>
+       <time>2016-11-17T21:24:58Z</time>
+      </trkpt>
+      <trkpt lat="50.641691" lon="-1.928431">
+       <ele>21.99</ele>
+       <time>2016-11-17T21:25:33Z</time>
+      </trkpt>
+      <trkpt lat="50.641740" lon="-1.928570">
+       <ele>20.2</ele>
+       <time>2016-11-17T21:25:36Z</time>
+      </trkpt>
+      <trkpt lat="50.641750" lon="-1.928800">
+       <ele>19.19</ele>
+       <time>2016-11-17T21:25:40Z</time>
+      </trkpt>
+      <trkpt lat="50.641670" lon="-1.929740">
+       <ele>17.86</ele>
+       <time>2016-11-17T21:25:56Z</time>
+      </trkpt>
+      <trkpt lat="50.641370" lon="-1.932270">
+       <ele>17.3</ele>
+       <time>2016-11-17T21:26:39Z</time>
+      </trkpt>
+      <trkpt lat="50.641120" lon="-1.934640">
+       <ele>13.04</ele>
+       <time>2016-11-17T21:27:20Z</time>
+      </trkpt>
+      <trkpt lat="50.640440" lon="-1.940360">
+       <ele>17</ele>
+       <time>2016-11-17T21:28:58Z</time>
+      </trkpt>
+      <trkpt lat="50.640430" lon="-1.940540">
+       <ele>17.59</ele>
+       <time>2016-11-17T21:29:02Z</time>
+      </trkpt>
+      <trkpt lat="50.640480" lon="-1.941010">
+       <ele>17.85</ele>
+       <time>2016-11-17T21:29:10Z</time>
+      </trkpt>
+      <trkpt lat="50.640500" lon="-1.941440">
+       <ele>18.36</ele>
+       <time>2016-11-17T21:29:17Z</time>
+      </trkpt>
+      <trkpt lat="50.640910" lon="-1.942530">
+       <ele>16.2</ele>
+       <time>2016-11-17T21:29:38Z</time>
+      </trkpt>
+      <trkpt lat="50.640960" lon="-1.942750">
+       <ele>16.56</ele>
+       <time>2016-11-17T21:29:42Z</time>
+      </trkpt>
+      <trkpt lat="50.640960" lon="-1.942990">
+       <ele>17.6</ele>
+       <time>2016-11-17T21:29:46Z</time>
+      </trkpt>
+      <trkpt lat="50.641020" lon="-1.943170">
+       <ele>17.89</ele>
+       <time>2016-11-17T21:29:50Z</time>
+      </trkpt>
+      <trkpt lat="50.641030" lon="-1.943550">
+       <ele>18.91</ele>
+       <time>2016-11-17T21:29:56Z</time>
+      </trkpt>
+      <trkpt lat="50.641351" lon="-1.945335">
+       <ele>19.14</ele>
+       <time>2016-11-17T21:30:28Z</time>
+      </trkpt>
+      <trkpt lat="50.641507" lon="-1.946666">
+       <ele>18.57</ele>
+       <time>2016-11-17T21:30:51Z</time>
+      </trkpt>
+      <trkpt lat="50.641773" lon="-1.946730">
+       <ele>18.05</ele>
+       <time>2016-11-17T21:30:58Z</time>
+      </trkpt>
+      <trkpt lat="50.642651" lon="-1.948007">
+       <ele>22.8</ele>
+       <time>2016-11-17T21:31:30Z</time>
+      </trkpt>
+      <trkpt lat="50.643569" lon="-1.945872">
+       <ele>12.44</ele>
+       <time>2016-11-17T21:32:13Z</time>
+      </trkpt>
+      <trkpt lat="50.644331" lon="-1.946548">
+       <ele>16.25</ele>
+       <time>2016-11-17T21:32:37Z</time>
+      </trkpt>
+      <trkpt lat="50.645018" lon="-1.947352">
+       <ele>13.96</ele>
+       <time>2016-11-17T21:33:00Z</time>
+      </trkpt>
+      <trkpt lat="50.645202" lon="-1.947781">
+       <ele>11.89</ele>
+       <time>2016-11-17T21:33:08Z</time>
+      </trkpt>
+      <trkpt lat="50.645107" lon="-1.948146">
+       <ele>14.97</ele>
+       <time>2016-11-17T21:33:15Z</time>
+      </trkpt>
+      <trkpt lat="50.645154" lon="-1.948575">
+       <ele>15.28</ele>
+       <time>2016-11-17T21:33:22Z</time>
+      </trkpt>
+      <trkpt lat="50.644977" lon="-1.950056">
+       <ele>22.04</ele>
+       <time>2016-11-17T21:33:48Z</time>
+      </trkpt>
+      <trkpt lat="50.645181" lon="-1.949820">
+       <ele>18.99</ele>
+       <time>2016-11-17T21:33:55Z</time>
+      </trkpt>
+      <trkpt lat="50.645750" lon="-1.949590">
+       <ele>9.34</ele>
+       <time>2016-11-17T21:34:10Z</time>
+      </trkpt>
+      <trkpt lat="50.645960" lon="-1.949650">
+       <ele>7.43</ele>
+       <time>2016-11-17T21:34:16Z</time>
+      </trkpt>
+      <trkpt lat="50.646150" lon="-1.949780">
+       <ele>6.5</ele>
+       <time>2016-11-17T21:34:21Z</time>
+      </trkpt>
+      <trkpt lat="50.646740" lon="-1.949960">
+       <ele>1.78</ele>
+       <time>2016-11-17T21:34:38Z</time>
+      </trkpt>
+      <trkpt lat="50.647100" lon="-1.950120">
+       <ele>1.68</ele>
+       <time>2016-11-17T21:34:48Z</time>
+      </trkpt>
+      <trkpt lat="50.648190" lon="-1.950800">
+       <ele>3.21</ele>
+       <time>2016-11-17T21:35:19Z</time>
+      </trkpt>
+      <trkpt lat="50.648390" lon="-1.950900">
+       <ele>3.16</ele>
+       <time>2016-11-17T21:35:24Z</time>
+      </trkpt>
+      <trkpt lat="50.649830" lon="-1.951840">
+       <ele>1.39</ele>
+       <time>2016-11-17T21:36:06Z</time>
+      </trkpt>
+      <trkpt lat="50.649970" lon="-1.951990">
+       <ele>0.94</ele>
+       <time>2016-11-17T21:36:11Z</time>
+      </trkpt>
+      <trkpt lat="50.650800" lon="-1.952590">
+       <ele>2.11</ele>
+       <time>2016-11-17T21:36:35Z</time>
+      </trkpt>
+      <trkpt lat="50.651130" lon="-1.952750">
+       <ele>1.94</ele>
+       <time>2016-11-17T21:36:44Z</time>
+      </trkpt>
+      <trkpt lat="50.652150" lon="-1.952930">
+       <ele>1.52</ele>
+       <time>2016-11-17T21:37:12Z</time>
+      </trkpt>
+      <trkpt lat="50.652330" lon="-1.952920">
+       <ele>1.5</ele>
+       <time>2016-11-17T21:37:16Z</time>
+      </trkpt>
+      <trkpt lat="50.652530" lon="-1.952950">
+       <ele>1.58</ele>
+       <time>2016-11-17T21:37:22Z</time>
+      </trkpt>
+      <trkpt lat="50.652850" lon="-1.952930">
+       <ele>1.94</ele>
+       <time>2016-11-17T21:37:30Z</time>
+      </trkpt>
+      <trkpt lat="50.653680" lon="-1.952770">
+       <ele>2.46</ele>
+       <time>2016-11-17T21:37:53Z</time>
+      </trkpt>
+      <trkpt lat="50.654260" lon="-1.952740">
+       <ele>2.58</ele>
+       <time>2016-11-17T21:38:08Z</time>
+      </trkpt>
+      <trkpt lat="50.655160" lon="-1.952610">
+       <ele>2.24</ele>
+       <time>2016-11-17T21:38:32Z</time>
+      </trkpt>
+      <trkpt lat="50.656050" lon="-1.952360">
+       <ele>1.66</ele>
+       <time>2016-11-17T21:38:56Z</time>
+      </trkpt>
+      <trkpt lat="50.657440" lon="-1.951750">
+       <ele>0.2</ele>
+       <time>2016-11-17T21:39:35Z</time>
+      </trkpt>
+      <trkpt lat="50.658070" lon="-1.951430">
+       <ele>0</ele>
+       <time>2016-11-17T21:39:52Z</time>
+      </trkpt>
+      <trkpt lat="50.659250" lon="-1.950730">
+       <ele>1.66</ele>
+       <time>2016-11-17T21:40:26Z</time>
+      </trkpt>
+      <trkpt lat="50.659950" lon="-1.950420">
+       <ele>0.53</ele>
+       <time>2016-11-17T21:40:46Z</time>
+      </trkpt>
+      <trkpt lat="50.660670" lon="-1.950000">
+       <ele>0</ele>
+       <time>2016-11-17T21:41:06Z</time>
+      </trkpt>
+      <trkpt lat="50.662380" lon="-1.948880">
+       <ele>0.66</ele>
+       <time>2016-11-17T21:41:55Z</time>
+      </trkpt>
+      <trkpt lat="50.662580" lon="-1.948790">
+       <ele>0.6</ele>
+       <time>2016-11-17T21:42:01Z</time>
+      </trkpt>
+      <trkpt lat="50.662650" lon="-1.948730">
+       <ele>0.56</ele>
+       <time>2016-11-17T21:42:03Z</time>
+      </trkpt>
+      <trkpt lat="50.663210" lon="-1.948420">
+       <ele>0.19</ele>
+       <time>2016-11-17T21:42:19Z</time>
+      </trkpt>
+      <trkpt lat="50.663320" lon="-1.948320">
+       <ele>0</ele>
+       <time>2016-11-17T21:42:22Z</time>
+      </trkpt>
+      <trkpt lat="50.663400" lon="-1.948290">
+       <ele>0.31</ele>
+       <time>2016-11-17T21:42:25Z</time>
+      </trkpt>
+      <trkpt lat="50.663470" lon="-1.948220">
+       <ele>0.61</ele>
+       <time>2016-11-17T21:42:27Z</time>
+      </trkpt>
+      <trkpt lat="50.663860" lon="-1.947950">
+       <ele>1.95</ele>
+       <time>2016-11-17T21:42:38Z</time>
+      </trkpt>
+      <trkpt lat="50.663890" lon="-1.947910">
+       <ele>1.99</ele>
+       <time>2016-11-17T21:42:39Z</time>
+      </trkpt>
+      <trkpt lat="50.664160" lon="-1.947750">
+       <ele>2.58</ele>
+       <time>2016-11-17T21:42:47Z</time>
+      </trkpt>
+      <trkpt lat="50.664500" lon="-1.947490">
+       <ele>1.58</ele>
+       <time>2016-11-17T21:42:57Z</time>
+      </trkpt>
+      <trkpt lat="50.664720" lon="-1.947350">
+       <ele>1.1</ele>
+       <time>2016-11-17T21:43:03Z</time>
+      </trkpt>
+      <trkpt lat="50.664830" lon="-1.947230">
+       <ele>0.81</ele>
+       <time>2016-11-17T21:43:07Z</time>
+      </trkpt>
+      <trkpt lat="50.665070" lon="-1.947090">
+       <ele>0.55</ele>
+       <time>2016-11-17T21:43:14Z</time>
+      </trkpt>
+      <trkpt lat="50.665290" lon="-1.946930">
+       <ele>0.43</ele>
+       <time>2016-11-17T21:43:20Z</time>
+      </trkpt>
+      <trkpt lat="50.665300" lon="-1.946900">
+       <ele>0.38</ele>
+       <time>2016-11-17T21:43:21Z</time>
+      </trkpt>
+      <trkpt lat="50.665530" lon="-1.946750">
+       <ele>0.16</ele>
+       <time>2016-11-17T21:43:27Z</time>
+      </trkpt>
+      <trkpt lat="50.665920" lon="-1.946450">
+       <ele>0.28</ele>
+       <time>2016-11-17T21:43:39Z</time>
+      </trkpt>
+      <trkpt lat="50.666070" lon="-1.946380">
+       <ele>0.75</ele>
+       <time>2016-11-17T21:43:43Z</time>
+      </trkpt>
+      <trkpt lat="50.666370" lon="-1.946130">
+       <ele>1.52</ele>
+       <time>2016-11-17T21:43:52Z</time>
+      </trkpt>
+      <trkpt lat="50.666440" lon="-1.946100">
+       <ele>1.69</ele>
+       <time>2016-11-17T21:43:54Z</time>
+      </trkpt>
+      <trkpt lat="50.667550" lon="-1.945140">
+       <ele>0.56</ele>
+       <time>2016-11-17T21:44:28Z</time>
+      </trkpt>
+      <trkpt lat="50.667660" lon="-1.945020">
+       <ele>0.81</ele>
+       <time>2016-11-17T21:44:32Z</time>
+      </trkpt>
+      <trkpt lat="50.668630" lon="-1.944210">
+       <ele>2.1</ele>
+       <time>2016-11-17T21:45:01Z</time>
+      </trkpt>
+      <trkpt lat="50.669330" lon="-1.943550">
+       <ele>0.52</ele>
+       <time>2016-11-17T21:45:23Z</time>
+      </trkpt>
+      <trkpt lat="50.669630" lon="-1.943320">
+       <ele>0</ele>
+       <time>2016-11-17T21:45:31Z</time>
+      </trkpt>
+      <trkpt lat="50.669810" lon="-1.943230">
+       <ele>0</ele>
+       <time>2016-11-17T21:45:37Z</time>
+      </trkpt>
+      <trkpt lat="50.669880" lon="-1.943150">
+       <ele>0</ele>
+       <time>2016-11-17T21:45:39Z</time>
+      </trkpt>
+      <trkpt lat="50.670440" lon="-1.942750">
+       <ele>1.21</ele>
+       <time>2016-11-17T21:45:55Z</time>
+      </trkpt>
+      <trkpt lat="50.671430" lon="-1.942190">
+       <ele>1.26</ele>
+       <time>2016-11-17T21:46:23Z</time>
+      </trkpt>
+      <trkpt lat="50.671690" lon="-1.942080">
+       <ele>0.98</ele>
+       <time>2016-11-17T21:46:30Z</time>
+      </trkpt>
+      <trkpt lat="50.672010" lon="-1.941970">
+       <ele>0.58</ele>
+       <time>2016-11-17T21:46:39Z</time>
+      </trkpt>
+      <trkpt lat="50.672660" lon="-1.941790">
+       <ele>0.18</ele>
+       <time>2016-11-17T21:46:57Z</time>
+      </trkpt>
+      <trkpt lat="50.672870" lon="-1.941750">
+       <ele>0.14</ele>
+       <time>2016-11-17T21:47:03Z</time>
+      </trkpt>
+      <trkpt lat="50.673020" lon="-1.941750">
+       <ele>0.16</ele>
+       <time>2016-11-17T21:47:07Z</time>
+      </trkpt>
+      <trkpt lat="50.673340" lon="-1.941790">
+       <ele>0.29</ele>
+       <time>2016-11-17T21:47:15Z</time>
+      </trkpt>
+      <trkpt lat="50.673650" lon="-1.941910">
+       <ele>0.36</ele>
+       <time>2016-11-17T21:47:24Z</time>
+      </trkpt>
+      <trkpt lat="50.673760" lon="-1.942030">
+       <ele>0.43</ele>
+       <time>2016-11-17T21:47:27Z</time>
+      </trkpt>
+      <trkpt lat="50.673810" lon="-1.942220">
+       <ele>0.57</ele>
+       <time>2016-11-17T21:47:31Z</time>
+      </trkpt>
+      <trkpt lat="50.673850" lon="-1.942550">
+       <ele>0.78</ele>
+       <time>2016-11-17T21:47:36Z</time>
+      </trkpt>
+      <trkpt lat="50.673870" lon="-1.942750">
+       <ele>0.82</ele>
+       <time>2016-11-17T21:47:40Z</time>
+      </trkpt>
+      <trkpt lat="50.673860" lon="-1.943100">
+       <ele>1</ele>
+       <time>2016-11-17T21:47:46Z</time>
+      </trkpt>
+      <trkpt lat="50.673920" lon="-1.943590">
+       <ele>0.8</ele>
+       <time>2016-11-17T21:47:54Z</time>
+      </trkpt>
+      <trkpt lat="50.673990" lon="-1.943990">
+       <ele>0.47</ele>
+       <time>2016-11-17T21:48:01Z</time>
+      </trkpt>
+      <trkpt lat="50.674090" lon="-1.944320">
+       <ele>0.17</ele>
+       <time>2016-11-17T21:48:07Z</time>
+      </trkpt>
+      <trkpt lat="50.674330" lon="-1.944870">
+       <ele>0</ele>
+       <time>2016-11-17T21:48:19Z</time>
+      </trkpt>
+      <trkpt lat="50.674620" lon="-1.945380">
+       <ele>0.21</ele>
+       <time>2016-11-17T21:48:30Z</time>
+      </trkpt>
+      <trkpt lat="50.674930" lon="-1.945820">
+       <ele>0.08</ele>
+       <time>2016-11-17T21:48:41Z</time>
+      </trkpt>
+      <trkpt lat="50.675370" lon="-1.946590">
+       <ele>0</ele>
+       <time>2016-11-17T21:48:59Z</time>
+      </trkpt>
+      <trkpt lat="50.675630" lon="-1.946860">
+       <ele>0.29</ele>
+       <time>2016-11-17T21:49:07Z</time>
+      </trkpt>
+      <trkpt lat="50.675940" lon="-1.947120">
+       <ele>0.54</ele>
+       <time>2016-11-17T21:49:17Z</time>
+      </trkpt>
+      <trkpt lat="50.676660" lon="-1.947580">
+       <ele>1.1</ele>
+       <time>2016-11-17T21:49:37Z</time>
+      </trkpt>
+      <trkpt lat="50.677110" lon="-1.947910">
+       <ele>0.7</ele>
+       <time>2016-11-17T21:49:51Z</time>
+      </trkpt>
+      <trkpt lat="50.677260" lon="-1.947890">
+       <ele>0.42</ele>
+       <time>2016-11-17T21:49:55Z</time>
+      </trkpt>
+      <trkpt lat="50.677630" lon="-1.948110">
+       <ele>0</ele>
+       <time>2016-11-17T21:50:05Z</time>
+      </trkpt>
+      <trkpt lat="50.678490" lon="-1.948870">
+       <ele>0.52</ele>
+       <time>2016-11-17T21:50:31Z</time>
+      </trkpt>
+      <trkpt lat="50.677276" lon="-1.951519">
+       <ele>0.13</ele>
+       <time>2016-11-17T21:51:27Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
