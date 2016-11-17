@@ -89,6 +89,9 @@ $(function() {
         var datasets = [];
         for (var k in elevationData){
             var data = [];
+            if(_.sum(_.zip.apply(_, elevationData[k])[1])===0){ //hide empty elevation sets
+                continue;
+            }
             _.each(elevationData[k], function(datum){
                 data.push({x: datum[0], y: datum[1]})
             })
@@ -121,9 +124,9 @@ $(function() {
         var google_map = $(track_elem).find('.maps .google-map')[0];
         loadGoogleMap(gpx_file, google_map);
 
-        var eleveations = $(track_elem).data('elevations');
-        for(var k in eleveations){
-            elevationData[k] = eleveations[k];
+        var elevations = $(track_elem).data('elevations');
+        for(var k in elevations){
+            elevationData[k] = elevations[k];
         }
 
         var elevation_chart = $(track_elem).find('.maps .elevation-chart .chart')[0];
